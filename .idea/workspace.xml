@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70cd6fa1-e5ad-47d7-a550-aa48c689e025" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70cd6fa1-e5ad-47d7-a550-aa48c689e025" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../object_oriented_programming_di_python" />
   </component>
   <component name="RunManager" selected="Python.menulis dan membaca file json">
     <configuration name="membaca file csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -159,22 +157,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="895" height="351" key="GridCell.Tab.0.bottom" timestamp="1597032243064">
+    <state x="309" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597035183160">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="895" height="351" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1597032243064" />
-    <state width="895" height="351" key="GridCell.Tab.0.center" timestamp="1597032243062">
+    <state x="309" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1597035183160" />
+    <state width="895" height="351" key="GridCell.Tab.0.bottom" timestamp="1597051042743">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="895" height="351" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1597032243062" />
-    <state width="895" height="351" key="GridCell.Tab.0.left" timestamp="1597032243062">
+    <state width="895" height="351" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1597051042743" />
+    <state width="895" height="351" key="GridCell.Tab.0.center" timestamp="1597051042742">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="895" height="351" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1597032243062" />
-    <state width="895" height="351" key="GridCell.Tab.0.right" timestamp="1597032243063">
+    <state width="895" height="351" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1597051042742" />
+    <state width="895" height="351" key="GridCell.Tab.0.left" timestamp="1597051042741">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="895" height="351" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1597032243063" />
+    <state width="895" height="351" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1597051042741" />
+    <state width="895" height="351" key="GridCell.Tab.0.right" timestamp="1597051042743">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="895" height="351" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1597051042743" />
     <state x="189" y="259" key="search.everywhere.popup" timestamp="1597027184225">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
